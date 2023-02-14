@@ -1,0 +1,36 @@
+{
+    "truth": [
+        {
+            "id": 1,
+            "text": "Lebih sayang papa atau mama?",
+            "author": "@rezahazerr"
+        },
+        {
+            "id": 2,
+            "text": "Quote apa yang paling kamu suka?",
+            "author": "@rezahazerr"
+        },
+        {
+            "id": 3,
+            "text": "Pernah ga kamu iri sama temen kamu, sebutin siapa dan alesannya",
+            "author": "@rezahazerr"
+        }
+    ],
+    "dare": [
+        {
+            "id": 1,
+            "text": "Tulis nama seseorang di instastory pake jari kaki",
+            "author": "@rezahazerr"
+        },
+        {
+            "id": 2,
+            "text": "Ngaca sambil gombalin diri sendiri",
+            "author": "@rezahazerr"
+        },
+        {
+            "id": 3,
+            "text": "Minta maaf ke orang yang sering kamu jaili lewat telfon",
+            "author": "@rezahazerr"
+        }
+    ]
+}
